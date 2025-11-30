@@ -1,10 +1,13 @@
 import React from 'react';
 import Home from './components/Home';
 import { Route, Routes } from 'react-router-dom';
-import Why from './components/why';
+
 import { BrowserRouter } from 'react-router-dom'
 import Navbar from './components/Navbar';
 import FAQ from './components/FAQ';
+import Why from './components/Why';
+
+
 
 function App() {
   return (
